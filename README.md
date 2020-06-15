@@ -22,3 +22,5 @@
 [*Kebijakan Khusus Halaman*](https://m.facebook.com/policies/pages_groups_events/pages_specific_policies)
 
 [*Konten Bermerek Pada Halaman*](https://m.facebook.com/policies/pages_groups_events/branded_content_on_pages)
+
+[*Kebijakan Lowongan Kerja*](https://m.facebook.com/policies/pages_groups_events/jobs_on_pages)
