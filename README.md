@@ -6,3 +6,9 @@
 **Dengan mengklik Mulai, berarti Anda menyetujui Ketentuan Halaman Facebook**
 
 [**MULAI**](https://m.facebook.com/pages/creation/?ref_type=pages_tab_launch_point)
+
+----
+
+***Kebijakan Halaman, Grup, dan Acara***
+
+**DAFTAR ISI**
