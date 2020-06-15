@@ -26,3 +26,7 @@
 [*Kebijakan Lowongan Kerja*](https://m.facebook.com/policies/pages_groups_events/jobs_on_pages)
 
 [*Kebijakan Khusus Acara*](https://m.facebook.com/policies/pages_groups_events/?_rdr#!/policies/pages_groups_events/events_specific_policies)
+
+----
+
+# Ringkasan
