@@ -14,3 +14,5 @@
 **DAFTAR ISI**
 
 [*Kebijakan Umum dalam Halaman,Group,Acara*](https://m.facebook.com/policies/pages_groups_events/policies)
+
+[*Promosi Halaman di Group,Acara*](https://m.facebook.com/policies/pages_groups_events/promotions_on_pages_groups_and_events)
