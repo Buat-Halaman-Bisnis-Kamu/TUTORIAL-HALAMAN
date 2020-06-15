@@ -18,3 +18,5 @@
 [*Promosi Halaman di Group,Acara*](https://m.facebook.com/policies/pages_groups_events/promotions_on_pages_groups_and_events)
 
 [*Pengumpulan Data Pada Halaman,Group, Acara*](https://m.facebook.com/policies/pages_groups_events/?_rdr#!/policies/pages_groups_events/collection_of_data)
+
+[*Kebijakan Khusus Halaman*](https://m.facebook.com/policies/pages_groups_events/pages_specific_policies)
