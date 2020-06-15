@@ -12,3 +12,5 @@
 ***Kebijakan Halaman, Grup, dan Acara***
 
 **DAFTAR ISI**
+
+[*Kebijakan Umum dalam Halaman,Group,Acara*](https://m.facebook.com/policies/pages_groups_events/policies)
