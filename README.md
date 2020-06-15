@@ -3,4 +3,6 @@
 
 ![img](https://github.com/Buat-Halaman-Bisnis-Kamu/TUTORIAL-HALAMAN/blob/master/Screenshot_2020-06-15-23-15-49.jpg)
 
-[Buat Halaman](https://m.facebook.com/pages/creation/?ref_type=pages_tab_launch_point)
+**Dengan mengklik Mulai, berarti Anda menyetujui Ketentuan Halaman Facebook**
+
+[**MULAI**](https://m.facebook.com/pages/creation/?ref_type=pages_tab_launch_point)
