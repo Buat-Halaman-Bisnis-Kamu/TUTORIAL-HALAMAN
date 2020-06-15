@@ -30,3 +30,5 @@
 ----
 
 # Ringkasan
+
+[*Ringkasan Tentang Standar Kebijakan Halaman*](https://github.com/Buat-Halaman-Bisnis-Kamu/TUTORIAL-HALAMAN/blob/master/Ketentuan/Halaman/facebook.md)
