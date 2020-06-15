@@ -20,3 +20,5 @@
 [*Pengumpulan Data Pada Halaman,Group, Acara*](https://m.facebook.com/policies/pages_groups_events/?_rdr#!/policies/pages_groups_events/collection_of_data)
 
 [*Kebijakan Khusus Halaman*](https://m.facebook.com/policies/pages_groups_events/pages_specific_policies)
+
+[*Konten Bermerek Pada Halaman*](https://m.facebook.com/policies/pages_groups_events/branded_content_on_pages)
