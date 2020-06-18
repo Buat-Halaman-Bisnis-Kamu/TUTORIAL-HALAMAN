@@ -39,7 +39,8 @@ Untuk menggunakan Facebook Login di aplikasi desktop, Anda harus menyematkan bro
 
 Aplikasi yang menggunakan SDK kami dapat memeriksa apakah seseorang sudah masuk dengan menggunakan fungsi bawaan. Semua aplikasi lain harus [membuat cara penyimpanan sendiri](https://developers.facebook.com/docs/facebook-login/manually-build-a-login-flow#token) ketika orang sudah masuk, dan ketika tidak ada indikator, lanjutkan dengan asumsi bahwa mereka sudah keluar. Jika seseorang keluar, maka aplikasi Anda harus mengarahkannya ke dialog Masuk pada waktu yang tepat — misalnya, jika dia mengklik tombol masuk.
 
-Memasukkan Orang
+**Memasukkan Orang**
+
 Baik orang tidak masuk ke aplikasi Anda atau tidak masuk ke Facebook, Anda dapat menggunakan dialog Masuk untuk memintanya melakukan keduanya. Jika mereka tidak masuk ke Facebook, mereka akan diminta untuk masuk, lalu berlanjut masuk ke aplikasi Anda. Hal ini dideteksi secara otomatis, jadi Anda tidak perlu melakukan tindakan lain untuk mengaktifkan perilaku ini.
 
 	
