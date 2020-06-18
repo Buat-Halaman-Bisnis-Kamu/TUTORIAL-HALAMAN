@@ -55,7 +55,13 @@ https://www.facebook.com/v7.0/dialog/oauth?
 Endpoint ini mempunyai parameter wajib berikut ini:
 
 client_id. ID aplikasi Anda, ditemukan di dasbor aplikasi.
-redirect_uri. URL yang Anda inginkan untuk mengalihkan orang kembali masuk. URL ini akan menerima tanggapan dari Dialog Masuk. Jika Anda menggunakan ini pada webview dalam aplikasi desktop, URL ini harus diatur ke https://www.facebook.com/connect/login_success.html. Anda dapat mengonfirmasi bahwa URL ini ditetapkan untuk aplikasi Anda di Dasbor Aplikasi. Di bagian Produk di menu navigasi sebelah kiri Dasbor Aplikasi, klik Facebook Login, lalu klik Pengaturan. Verifikasi URI pengarahan ulang OAuth Valid di bagian Pengaturan OAuth Klien.
+redirect_uri. URL yang Anda inginkan untuk mengalihkan orang kembali masuk. URL ini akan menerima tanggapan dari Dialog Masuk. Jika Anda menggunakan ini pada webview dalam aplikasi desktop, URL ini harus diatur ke
+
+```javascript
+ https://www.facebook.com/connect/login_success.html.
+```
+
+ Anda dapat mengonfirmasi bahwa URL ini ditetapkan untuk aplikasi Anda di Dasbor Aplikasi. Di bagian Produk di menu navigasi sebelah kiri Dasbor Aplikasi, klik Facebook Login, lalu klik Pengaturan. Verifikasi URI pengarahan ulang OAuth Valid di bagian Pengaturan OAuth Klien.
 state. Sebuah nilai string yang dibuat oleh aplikasi Anda untuk mempertahankan status antara permintaan dan callback. Parameter ini harus digunakan untuk mencegah Cross-site Request Forgery dan akan diteruskan kembali ke Anda, tidak diubah, di URI pengalihan Anda.
 Misalnya, jika permintaan masuk Anda terlihat seperti:
 
