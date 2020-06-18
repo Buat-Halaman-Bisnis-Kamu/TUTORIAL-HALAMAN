@@ -1,4 +1,4 @@
-# Membuat Alur Masuk Secara Manual
+Mengonfirmasir Masuk Secara Manual
 
 Facebook Login
 Ringkasan
@@ -27,9 +27,9 @@ Untuk aplikasi seluler, gunakan Facebook SDK untuk [iOS](https://developers.face
 Namun, jika Anda ingin menerapkan masuk berbasis browser untuk sebuah aplikasi desktop tanpa menggunakan SDK kami, seperti webview untuk aplikasi desktop native (misalnya Windows 8), atau alur masuk yang menggunakan kode server secara keseluruhan, Anda dapat membangun alur Masuk untuk Anda sendiri menggunakan pengalihan browser. Panduan ini akan membawa Anda melalui setiap langkah alur masuk dan menunjukkan cara melakukan setiap langkah tanpa menggunakan SDK kami:
 
 - [Memeriksa status masuk](https://developers.facebook.com/docs/facebook-login/manually-build-a-login-flow#checklogin)
-- Memasukkan orang
-- Mengonfirmasi identitas
-- Menyimpan token akses dan status masuk
+- [Memasukkan orang](https://developers.facebook.com/docs/facebook-login/manually-build-a-login-flow#login)
+- [Mengonfirmasi identitas](https://developers.facebook.com/docs/facebook-login/manually-build-a-login-flow#confirm)
+- [Menyimpan token akses dan status masuk](https://developers.facebook.com/docs/facebook-login/manually-build-a-login-flow#token)
 - Mengeluarkan orang
 - Mendeteksi Saat Orang Menghapus Pemasangan Aplikasi
 
