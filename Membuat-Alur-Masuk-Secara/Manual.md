@@ -30,8 +30,8 @@ Namun, jika Anda ingin menerapkan masuk berbasis browser untuk sebuah aplikasi d
 - [Memasukkan orang](https://developers.facebook.com/docs/facebook-login/manually-build-a-login-flow#login)
 - [Mengonfirmasi identitas](https://developers.facebook.com/docs/facebook-login/manually-build-a-login-flow#confirm)
 - [Menyimpan token akses dan status masuk](https://developers.facebook.com/docs/facebook-login/manually-build-a-login-flow#token)
-- Mengeluarkan orang
-- Mendeteksi Saat Orang Menghapus Pemasangan Aplikasi
+- [Mengeluarkan orang](https://developers.facebook.com/docs/facebook-login/manually-build-a-login-flow#logout)
+- [Mendeteksi Saat Orang Menghapus Pemasangan Aplikasi](https://developers.facebook.com/docs/facebook-login/manually-build-a-login-flow#deauth-callback)
 
 Untuk menggunakan Facebook Login di aplikasi desktop, Anda harus menyematkan browser web (kadang disebut webview) dalam aplikasi untuk melakukan proses masuk.
 
