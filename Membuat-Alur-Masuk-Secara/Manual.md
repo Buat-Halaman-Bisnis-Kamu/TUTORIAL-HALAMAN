@@ -59,14 +59,19 @@ redirect_uri. URL yang Anda inginkan untuk mengalihkan orang kembali masuk. URL 
 state. Sebuah nilai string yang dibuat oleh aplikasi Anda untuk mempertahankan status antara permintaan dan callback. Parameter ini harus digunakan untuk mencegah Cross-site Request Forgery dan akan diteruskan kembali ke Anda, tidak diubah, di URI pengalihan Anda.
 Misalnya, jika permintaan masuk Anda terlihat seperti:
 
+```javascript   
 https://www.facebook.com/v7.0/dialog/oauth?
   client_id={app-id}
   &redirect_uri={"https://www.domain.com/login"}
   &state={"{st=state123abc,ds=123456789}"}
+```
+
 maka URI pengalihan Anda akan dipanggil dengan:
 
+```javascript
 https://www.domain.com/login?state="{st=state123abc,ds=123456789}"
-    
+```  
+
 URL ini juga mempunyai parameter opsional berikut ini:
 
 response_type. Menentukan apakah data tanggapan yang disertakan ketika terjadi pengalihan kembali ke aplikasi terjadi di parameter atau di fragmen URL. Lihat bagian Mengonfirmasi Identitas untuk memilih jenis yang harus digunakan aplikasi Anda. Ini dapat merupakan salah satu dari:
@@ -78,6 +83,7 @@ scope. Daftar Izin yang dipisahkan oleh koma atau spasi untuk permintaan dari or
 Untuk Aplikasi Windows 8
 Jika Anda membangun alur Masuk untuk aplikasi Windows, Anda dapat menggunakan Pengidentifikasi Keamanan Paket sebagai redirect_uri Anda. Picu Dialog Masuk dengan memanggil WebAuthenticationBroker.AuthenticateAsync dan gunakan endpoint Dialog Masuk sebagai requestUri. Berikut adalah contoh di JavaScript:
 
+```javascript
 var requestUri = new Windows.Foundation.Uri(
   "https://www.facebook.com/v7.0/dialog/oauth?
     client_id={app-id}
@@ -92,6 +98,8 @@ Windows.Security.Authentication.Web.WebAuthenticationBroker.authenticateAsync(
     // Handle the response from the Login Dialog
   }
 );
+```
+
 Ini akan mengembalikan alur kontrol kembali ke aplikasi Anda dengan token akses jika berhasil, atau kesalahan jika gagal.
 
 Menangani Tanggapan Dialog Masuk
@@ -107,18 +115,24 @@ JavaScript sisi klien dapat menangkap fragmen URL (misalnya jQuery BBQ), sedangk
 
 Ketika menggunakan aplikasi desktop dan masuk, Facebook mengalihkan orang ke redirect_uri yang disebutkan di atas dan menempatkan token akses bersama dengan beberapa metadata lain (seperti waktu kedaluwarsa token) di fragmen URI:
 
+```javascript
 https://www.facebook.com/connect/login_success.html#
     access_token=ACCESS_TOKEN...
+```
+
 Aplikasi Anda harus mendeteksi pengalihan ini, lalu membaca token akses di luar URI menggunakan mekanisme yang disediakan oleh OS dan kerangka kerja pengembangan yang Anda gunakan. Berikutnya, Anda dapat melanjutkan ke langkah Memeriksa token akses.
 
 
 Masuk yang Dibatalkan
 Jika orang yang menggunakan aplikasi Anda tidak menerima dialog Masuk dan mengklik Batal, mereka akan dialihkan ke:
 
+```javascript
 YOUR_REDIRECT_URI?
  error_reason=user_denied
  &error=access_denied
  &error_description=Permissions+error.
+```
+
 Lihat cara Menangani Izin yang Hilang untuk informasi selengkapnya tentang apa yang harus dilakukan aplikasi ketika orang menolak masuk.
 
 Mengonfirmasi Identitas
@@ -132,11 +146,14 @@ Perhatikan bahwa Anda juga dapat membuat parameter state Anda sendiri dan menggu
 Mengganti Kode dengan Token Akses
 Untuk mendapat token akses, buat permintaan HTTP GET pada endpoint OAuth berikut ini:
 
+```javascript
 GET https://graph.facebook.com/v7.0/oauth/access_token?
    client_id={app-id}
    &redirect_uri={redirect-uri}
    &client_secret={app-secret}
    &code={code-parameter}
+```
+
 Endpoint ini mempunyai beberapa parameter wajib berikut:
 
 client_id. ID aplikasi Anda
@@ -149,19 +166,25 @@ Tanggapan
 
 Tanggapan yang akan Anda terima dari endpoint ini akan dikembalikan dalam format JSON dan, jika berhasil:
 
+```javascript
 {
   "access_token": {access-token}, 
   "token_type": {type},
   "expires_in":  {seconds-til-expiration}
 }
+```
+
 Jika tidak berhasil, Anda akan menerima pesan penjelasan kesalahan.
 
 Memeriksa Token Akses
 Baik aplikasi Anda menggunakan code atau token sebagai response_type Anda dari Dialog masuk atau tidak, token akses akan tetap diterima. Anda dapat melakukan pemeriksaan otomatis pada token tersebut menggunakan endpoint API Graf:
 
+```javascript
 GET graph.facebook.com/debug_token?
      input_token={token-to-inspect}
      &access_token={app-token-or-admin-token}
+```
+
 Endpoint ini mengambil parameter berikut:
 
 input_token. Token yang harus Anda periksa.
