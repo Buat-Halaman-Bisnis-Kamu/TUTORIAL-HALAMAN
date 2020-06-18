@@ -26,12 +26,13 @@ Untuk aplikasi seluler, gunakan Facebook SDK untuk [iOS](https://developers.face
 
 Namun, jika Anda ingin menerapkan masuk berbasis browser untuk sebuah aplikasi desktop tanpa menggunakan SDK kami, seperti webview untuk aplikasi desktop native (misalnya Windows 8), atau alur masuk yang menggunakan kode server secara keseluruhan, Anda dapat membangun alur Masuk untuk Anda sendiri menggunakan pengalihan browser. Panduan ini akan membawa Anda melalui setiap langkah alur masuk dan menunjukkan cara melakukan setiap langkah tanpa menggunakan SDK kami:
 
-Memeriksa status masuk
-Memasukkan orang
-Mengonfirmasi identitas
-Menyimpan token akses dan status masuk
-Mengeluarkan orang
-Mendeteksi Saat Orang Menghapus Pemasangan Aplikasi
+- Memeriksa status masuk
+- Memasukkan orang
+- Mengonfirmasi identitas
+- Menyimpan token akses dan status masuk
+- Mengeluarkan orang
+- Mendeteksi Saat Orang Menghapus Pemasangan Aplikasi
+
 Untuk menggunakan Facebook Login di aplikasi desktop, Anda harus menyematkan browser web (kadang disebut webview) dalam aplikasi untuk melakukan proses masuk.
 
 Memeriksa Status Masuk
