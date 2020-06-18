@@ -42,7 +42,7 @@ Aplikasi yang menggunakan SDK kami dapat memeriksa apakah seseorang sudah masuk 
 **Memasukkan Orang**
 
 Baik orang tidak masuk ke aplikasi Anda atau tidak masuk ke Facebook, Anda dapat menggunakan dialog Masuk untuk memintanya melakukan keduanya. Jika mereka tidak masuk ke Facebook, mereka akan diminta untuk masuk, lalu berlanjut masuk ke aplikasi Anda. Hal ini dideteksi secara otomatis, jadi Anda tidak perlu melakukan tindakan lain untuk mengaktifkan perilaku ini.
-
+![img](https://github.com/Buat-Halaman-Bisnis-Kamu/TUTORIAL-HALAMAN/blob/master/Dock/16327997_444594122597117_4349793051749646336_n.png)
 	
 
 Meminta [Dialog Masuk](https://developers.facebook.com/docs/facebook-login/overview/#logindialog) dan Mengatur URL Pengalihan
