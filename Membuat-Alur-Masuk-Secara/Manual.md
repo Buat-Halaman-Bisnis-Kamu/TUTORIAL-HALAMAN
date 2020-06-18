@@ -1,4 +1,4 @@
-Mengonfirmasir Masuk Secara Manual
+# Mengonfirmasir Masuk Secara Manual
 
 Facebook Login
 Ringkasan
@@ -300,7 +300,7 @@ Setiap kali pengguna aplikasi Anda membatalkan otorisasinya, URL ini akan dikiri
 Orang dapat meminta aplikasi untuk menghapus semua informasi tentang mereka yang diterima dari Facebook. Untuk menanggapi permintaan ini, lihat Callback Permintaan Penghapusan Data.
 
 
-#Produk
+# Produk
 
 - Kecerdasan Buatan
 - AR/VR
