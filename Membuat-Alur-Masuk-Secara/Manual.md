@@ -45,12 +45,12 @@ Baik orang tidak masuk ke aplikasi Anda atau tidak masuk ke Facebook, Anda dapat
 Meminta Dialog Masuk dan Mengatur URL Pengalihan
 Aplikasi Anda harus memulai pengalihan ke endpoint yang akan menampilkan dialog masuk:
 
-----
+```javascript
 https://www.facebook.com/v7.0/dialog/oauth?
   client_id={app-id}
   &redirect_uri={redirect-uri}
   &state={state-param}
-----
+```
 
 Endpoint ini mempunyai parameter wajib berikut ini:
 
