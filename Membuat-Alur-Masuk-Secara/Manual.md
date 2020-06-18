@@ -271,68 +271,85 @@ Dengan menggunakan ini, Dialog Masuk akan meminta ulang untuk izin yang ditolak.
 Menyimpan Token Akses dan Status Masuk
 Pada titik ini di alur, Anda sudah mengautentikasi dan memasukkan seseorang. Aplikasi Anda siap melakukan panggilan API atas namanya. Sebelum melakukannya, aplikasi harus menyimpan token akses dan status masuk dari orang yang menggunakan aplikasi tersebut.
 
-Menyimpan Token Akses
+*Menyimpan Token Akses*
+
 Setelah aplikasi Anda menerima token akses dari langkah sebelumnya, token tersebut harus disimpan agar tersedia untuk semua komponen aplikasi saat melakukan panggilan API. Di sini tidak ada proses khusus, namun pada umumnya jika Anda membuat aplikasi web, sebaiknya menambahkan token sebagai variabel sesi untuk mengidentifikasi sesi browser dengan orang tertentu, jika Anda membuat desktop native atau aplikasi seluler, maka Anda harus menggunakan datastore yang tersedia untuk aplikasi Anda. Selain itu, aplikasi akan menyimpan token di database bersama dengan user_id untuk mengidentifikasinya.
 
 Lihat catatan kami tentang ukuran token akses di dokumen token akses.
 
-Melacak status masuk
+*Melacak status masuk*
+
 Sekali lagi, aplikasi Anda akan menyimpan status masuk seseorang, yang membantu menghindari harus melakukan panggilan tambahan ke dialog Masuk. Apa pun prosedur yang Anda pilih, ubah pemeriksaan status masuk Anda untuk mengetahuinya.
 
-Mengeluarkan Orang
+*Mengeluarkan Orang*
+
 Anda dapat mengeluarkan orang dari aplikasi Anda dengan membatalkan indikator status masuk yang Anda tambahkan, contohnya menghapus sesi yang mengindikasikan seseorang masuk. Anda juga harus menghapus token akses yang tersimpan.
 
 Mengeluarkan seseorang tidak sama dengan membatalkan izin masuk (menghapus autentikasi yang sebelumnya diberikan), yang dapat dilakukan secara terpisah. Karena itu, maka buat aplikasi Anda sehingga tidak otomatis memaksa orang yang sudah keluar kembali ke dialog Masuk.
 
-Mendeteksi Saat Orang Menghapus Pemasangan Aplikasi
+*Mendeteksi Saat Orang Menghapus Pemasangan Aplikasi*
+
 Orang-orang dapat menghapus pemasangan aplikasi melalui Facebook.com tanpa berinteraksi dengan aplikasi itu sendiri. Untuk membantu aplikasi mendeteksi saat ini terjadi, kami memungkinkan aplikasi menyediakan URL batalkan otorisasi callback yang akan di-ping setiap kali ini terjadi.
 
 Anda dapat mengaktifkan batalkan otorisasi callback melalui Dasbor Aplikasi. Cukup buka aplikasi Anda, lalu pilih Produk, lalu Facebook Login, dan terakhir Pengaturan. Bidang teks disediakan untuk URL Batalkan Otorisasi Callback.
 
 Setiap kali pengguna aplikasi Anda membatalkan otorisasinya, URL ini akan dikirimi HTTP POST yang berisi permintaan yang ditandatangani. Baca panduan kami untuk menguraikan permintaan yang ditandatangani untuk melihat cara mendekodekan ini guna menemukan ID pengguna yang memicu callback tersebut.
 
-Menanggapi Permintaan untuk Menghapus Data Pengguna
+*Menanggapi Permintaan untuk Menghapus Data Pengguna*
+
 Orang dapat meminta aplikasi untuk menghapus semua informasi tentang mereka yang diterima dari Facebook. Untuk menanggapi permintaan ini, lihat Callback Permintaan Penghapusan Data.
 
 
-Produk
-Kecerdasan Buatan
-AR/VR
-Alat Bisnis
-Game
-Sumber Terbuka
-Penerbitan
-Integrasi Sosial
-Kehadiran Sosial
-Program
-Developer Circles
-F8
-Program Perusahaan Rintisan
-ThreatExchange
-Dukungan
+#Produk
+
+- Kecerdasan Buatan
+- AR/VR
+- Alat Bisnis
+- Game
+- Sumber Terbuka
+
+*Penerbitan*
+
+- Integrasi Sosial
+- Kehadiran Sosial
+
+*Program*
+
+- Developer Circles
+- F8
+- Program Perusahaan Rintisan
+- ThreatExchange
+- Dukungan
 Dukungan Developer
-Bug
-Status Platform
-Grup Komunitas Facebook for Developers
-Berita
-Blog
-Kisah Sukses
-Video
-Halaman Facebook for Developers
+- Bug
+- Status Platform
+
+*Grup Komunitas Facebook for Developers
+Berita*
+
+- Blog
+- Kisah Sukses
+- Video
+
+*Halaman Facebook for Developers*
+
 Ikuti Kami
-Ikuti Kami di FacebookIkuti Kami InstagramIkuti Kami di TwitterIkuti Kami di LinkedInIkuti Kami di YouTube
-© 2020 Facebook
-Tentang
-Buat Iklan
-Karier
-Kebijakan Platform
-Kebijakan Privasi
-Cookie
-Ketentuan
+Ikuti Kami di [Facebook](https://facebook.com/pemasaran7) Kami [Instagram](@suplayergo9) Kami di TwitterIkuti Kami di LinkedInIkuti Kami di YouTube
 
-Bahasa Indonesia
+*© 2020 Facebook*
 
-Bahasa Indonesia
+- [Tentang]()
+- [Buat Iklan]()
+- [Karier]()
+- [Kebijakan Platform]()
+- [Kebijakan Privasi]()
+- [Cookie]()
+- [Ketentuan]()
+
+[Bahasa Indonesia]()
+
+[Bahasa Indonesia]()
+
 Apakah dokumen ini membantu ?
-YaYa, tapi...Tidak
-Hapus
+[Ya]() tapi...[Tidak]()
+[Hapus]()
