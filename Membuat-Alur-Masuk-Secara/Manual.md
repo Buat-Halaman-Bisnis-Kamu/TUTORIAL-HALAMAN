@@ -1,4 +1,4 @@
-
+# Membuat Alur Masuk Secara Manual
 
 Facebook Login
 Ringkasan
@@ -191,6 +191,7 @@ input_token. Token yang harus Anda periksa.
 access_tokenToken akses aplikasi atau token akses aplikasi untuk developer aplikasi.
 Tanggapan panggilan API adalah susunan JSON yang berisi data tentang token yang diperiksa. Misalnya:
 
+```javascript
 {
     "data": {
         "app_id": 138483919580948, 
@@ -209,6 +210,8 @@ Tanggapan panggilan API adalah susunan JSON yang berisi data tentang token yang 
         "user_id": "1207059"
     }
 }
+```
+
 Kolom app_id dan user_id membantu aplikasi Anda memverifikasi bahwa token akses valid untuk orang tersebut dan untuk aplikasi Anda. Untuk deskripsi lengkap kolom lainnya, lihat Mendapatkan Info tentang panduan Token Akses.
 
 Memeriksa Izin
@@ -222,6 +225,7 @@ Izin public_profile selalu diperlukan dan berwarna abu-abu karena tidak dapat di
 
 Namun, jika seseorang tidak memeriksa user_likes (Suka) dalam contoh ini, maka dengan memeriksa /me/permissions yang izinnya sudah diberikan akan menghasilkan:
 
+```javascript
 {
   "data":
     [
@@ -235,6 +239,8 @@ Namun, jika seseorang tidak memeriksa user_likes (Suka) dalam contoh ini, maka d
       }
     ]
 }
+```
+
 Perhatikan bahwa user_likes sudah ditolak, dan bukan diberikan.
 
 Tidak mengapa jika meminta seseorang lagi untuk memberikan izin bagi aplikasi Anda yang pernah ditolak. Anda seharusnya memiliki layar edukasi tentang mengapa mereka sebaiknya memberikan izin kepada Anda, kemudian meminta ulang. Tetapi, jika Anda meminta Dialog Masuk seperti sebelumnya, maka layar ini tidak akan meminta izin tersebut.
@@ -243,12 +249,14 @@ Ini karena setelah seseorang menolak izin, Dialog Login tidak akan meminta ulang
 
 Anda dapat melakukannya dengan menambahkan parameter auth_type=rerequest di URL Dialog Masuk Anda:
 
+```javascript
 https://www.facebook.com/v7.0/dialog/oauth?
     client_id={app-id}
     &redirect_uri={redirect-uri}
     &auth_type=rerequest
     scope=email
-   
+``` 
+
 Dengan menggunakan ini, Dialog Masuk akan meminta ulang untuk izin yang ditolak.
 
 Menyimpan Token Akses dan Status Masuk
