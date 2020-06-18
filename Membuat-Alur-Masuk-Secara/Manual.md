@@ -22,7 +22,7 @@ API Pencocokan ID
 Catatan Perubahan
 Business Login for Direct Businesses
 Membuat Alur Masuk Secara Manual
-Untuk aplikasi seluler, gunakan Facebook SDK untuk [iOS](https://developers.facebook.com/docs/facebook-login/login-flow-for-ios/) dan Android, dan ikuti panduan terpisah untuk platform ini.
+Untuk aplikasi seluler, gunakan Facebook SDK untuk [iOS](https://developers.facebook.com/docs/facebook-login/login-flow-for-ios/) dan [Android](https://developers.facebook.com/docs/facebook-login/android) dan ikuti panduan terpisah untuk platform ini.
 
 Namun, jika Anda ingin menerapkan masuk berbasis browser untuk sebuah aplikasi desktop tanpa menggunakan SDK kami, seperti webview untuk aplikasi desktop native (misalnya Windows 8), atau alur masuk yang menggunakan kode server secara keseluruhan, Anda dapat membangun alur Masuk untuk Anda sendiri menggunakan pengalihan browser. Panduan ini akan membawa Anda melalui setiap langkah alur masuk dan menunjukkan cara melakukan setiap langkah tanpa menggunakan SDK kami:
 
