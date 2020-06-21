@@ -18,7 +18,7 @@ jobs:
       - run: npm ci
       - run: npm test
 
-  publish-npm:
+  publish-npm:"https://npm.pkg.github.com/"
     needs: build
     runs-on: ubuntu-latest
     steps:
