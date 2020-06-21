@@ -13,6 +13,11 @@
 
 - [**Beranda**](https://m.facebook.com/Pemasaran7/?ref=bookmarks#)
 - [**Siaran Langsung**](https://m.facebook.com/Pemasaran7/?ref=bookmarks#)
+- [**Video**](https://m.facebook.com/Pemasaran7/?ref=bookmarks#)
+- [**Acara**](https://m.facebook.com/Pemasaran7/?ref=bookmarks#)
+- [**Postingan**](https://m.facebook.com/Pemasaran7/?ref=bookmarks#)
+- [**Tentang**](https://m.facebook.com/Pemasaran7/?ref=bookmarks#)
+- [**Komunitas**](https://m.facebook.com/Pemasaran7/?ref=bookmarks#)
 
 ***Kebijakan Halaman, Grup, dan Acara***
 
