@@ -19,9 +19,9 @@
 - [**Tentang**](https://m.facebook.com/Pemasaran7/?ref=bookmarks#)
 - [**Komunitas**](https://m.facebook.com/Pemasaran7/?ref=bookmarks#)
 - [**Foto**](https://m.facebook.com/Pemasaran7/?ref=bookmarks#)
-- [**Toko**](
+- [**Toko**](https://m.facebook.com/Pemasaran7/?ref=bookmarks#)
 
-***Kebijakan Halaman, Grup, dan Acara***
+# Kebijakan Halaman, Grup, dan Acara
 
 **DAFTAR ISI**
 
