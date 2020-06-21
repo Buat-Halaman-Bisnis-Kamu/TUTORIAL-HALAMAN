@@ -18,6 +18,8 @@
 - [**Postingan**](https://m.facebook.com/Pemasaran7/?ref=bookmarks#)
 - [**Tentang**](https://m.facebook.com/Pemasaran7/?ref=bookmarks#)
 - [**Komunitas**](https://m.facebook.com/Pemasaran7/?ref=bookmarks#)
+- [**Foto**](https://m.facebook.com/Pemasaran7/?ref=bookmarks#)
+- [**Toko**](
 
 ***Kebijakan Halaman, Grup, dan Acara***
 
