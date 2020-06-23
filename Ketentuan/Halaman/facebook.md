@@ -1,31 +1,42 @@
 
-Mode Data	Buka Gratis
-Kebijakan Halaman, Grup, dan Acara
-Daftar Isi	
-Ringkasan
-Memahami Kebijakan Kami
+***Mode***
+
+** [ Data ]()	[Buka Gratis]()
+
+# Kebijakan Halaman, Grup, dan Acara
+
+- Daftar Isi	
+- Ringkasan
+- Memahami Kebijakan Kami
+
 Ketentuan berikut, beserta Kebijakan Data, Standar Komunitas, dan Ketentuan Layanan, berlaku untuk semua kreator dan administrator Halaman, Grup, dan Acara di Facebook. Anda bertanggung jawab untuk memastikan bahwa Halaman, Grup, atau Acara Anda mematuhi semua undang-undang, peraturan, dan regulasi yang berlaku.
 Kebijakan Umum untuk Halaman, Grup, dan Acara
+
 1. Praktik Bisnis yang Dilarang
 Halaman, Grup, dan Acara tidak boleh mempromosikan produk, layanan, skema, atau promo yang menggunakan praktik bisnis yang menipu atau menyesatkan, termasuk praktik bisnis yang bermaksud menipu untuk mendapatkan uang atau informasi pribadi seseorang.
 Pelajari selengkapnya
+
 2. Penyamaran
 Halaman, Grup, dan Acara dilarang menyamar sebagai sebuah merek, entitas, atau tokoh publik. Jika Halaman, Grup, atau Acara digunakan untuk menyatakan dukungan atau minat pada suatu merek, entitas, atau tokoh publik, maka diharuskan ada penjelasan bahwa Halaman, Grup, atau Acara tersebut bukan merupakan perwakilan resmi dari merek, entitas, atau tokoh publik yang bersangkutan.
 Pelajari selengkapnya
+
 3. Judi
 Halaman, Grup, dan Acara tidak boleh memfasilitasi atau mempromosikan perjudian online, uang asli online, game ketangkasan, atau lotre online tanpa izin tertulis dari kami terlebih dahulu.
+
 4. Konten dengan Label yang Tidak Akurat
 Halaman, Grup, dan Acara dilarang untuk menandai konten secara tidak akurat atau meminta pengguna untuk menandai konten secara tidak akurat.
+
 5. Pemberian Insentif
 Halaman, Grup, dan Acara tidak boleh memberi insentif kepada orang-orang untuk menyalahgunakan fitur maupun fungsionalitas Facebook.
 Pelajari selengkapnya
+
 6. Pengobatan Kecanduan Narkoba dan Alkohol
 Halaman, Grup, dan Acara tidak boleh mempromosikan pusat pengobatan kecanduan narkoba dan alkohol yang menyesatkan, melakukan praktik berbahaya bagi pasiennya, atau melanggar hukum yang berlaku.
 Promosi di Halaman, Grup, dan Acara
 Mengomunikasikan Promosi
 Jika menggunakan Facebook untuk mengomunikasikan atau menjalankan promosi (mis: kontes atau undian), Anda bertanggung jawab atas kepatuhan pengoperasian promosi tersebut pada hukum yang berlaku, termasuk:
 Peraturan resmi;
-Ketentuan tawaran dan persyaratan kelayakan (mis: batasan usia dan tempat tinggal); dan
+**[Ketentuan tawaran dan persyaratan kelayakan](mis: batasan usia dan tempat tinggal) **; dan
 Kepatuhan pada peraturan dan regulasi yang berlaku, yang mengatur promosi dan semua hadiah yang ditawarkan (mis: pendaftaran dan pemerolehan persetujuan yang diwajibkan oleh regulasi).
 Konten yang Diwajibkan
 Promosi di Facebook harus mencantumkan hal-hal berikut:
