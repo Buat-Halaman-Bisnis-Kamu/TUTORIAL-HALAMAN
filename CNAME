@@ -1,7 +1,3 @@
-github: [octocat, npm publish] 
-patreon: octocat tidelift: "publishConfig": { "registry": "https://npm.pkg.github.com/" } 
-custom: ["npm.pkg.github.com", package.json]
-
 
 
 [Halaman](https://m.facebook.com/pages/create/?cat_ref_page_id=111281023869776&ref_type=page_profile&ref=bookmarks)
