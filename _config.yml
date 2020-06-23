@@ -1,1 +1,4 @@
 theme: jekyll-theme-merlot
+
+----
+"publishConfig": { "registry": "https://npm.pkg.github.com/" }
