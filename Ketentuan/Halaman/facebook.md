@@ -1,15 +1,15 @@
 
-***Mode***
+**Mode***
 
 ** [ Data ]()	[Buka Gratis]()
 
 # Kebijakan Halaman, Grup, dan Acara
 
-- Daftar Isi	
-- Ringkasan
-- Memahami Kebijakan Kami
+- [Daftar Isi]()	
+- [Ringkasan]()
+- [Memahami Kebijakan Kami]()
 
-Ketentuan berikut, beserta Kebijakan Data, Standar Komunitas, dan Ketentuan Layanan, berlaku untuk semua kreator dan administrator Halaman, Grup, dan Acara di Facebook. Anda bertanggung jawab untuk memastikan bahwa Halaman, Grup, atau Acara Anda mematuhi semua undang-undang, peraturan, dan regulasi yang berlaku.
+[Ketentuan berikut, beserta Kebijakan Data](), Standar Komunitas, dan Ketentuan Layanan, berlaku untuk semua kreator dan administrator Halaman, Grup, dan Acara di Facebook. Anda bertanggung jawab untuk memastikan bahwa Halaman, Grup, atau Acara Anda mematuhi semua undang-undang, peraturan, dan regulasi yang berlaku.
 Kebijakan Umum untuk Halaman, Grup, dan Acara
 
 1. Praktik Bisnis yang Dilarang
@@ -36,10 +36,13 @@ Promosi di Halaman, Grup, dan Acara
 Mengomunikasikan Promosi
 Jika menggunakan Facebook untuk mengomunikasikan atau menjalankan promosi (mis: kontes atau undian), Anda bertanggung jawab atas kepatuhan pengoperasian promosi tersebut pada hukum yang berlaku, termasuk:
 Peraturan resmi;
-**[Ketentuan tawaran dan persyaratan kelayakan](mis: batasan usia dan tempat tinggal) **; dan
+
+[Ketentuan tawaran dan persyaratan kelayakan](mis: batasan usia dan tempat tinggal) ; dan
 Kepatuhan pada peraturan dan regulasi yang berlaku, yang mengatur promosi dan semua hadiah yang ditawarkan (mis: pendaftaran dan pemerolehan persetujuan yang diwajibkan oleh regulasi).
 Konten yang Diwajibkan
-Promosi di Facebook harus mencantumkan hal-hal berikut:
+
+-Promosi di Facebook harus mencantumkan hal-hal berikut:
+
 Pernyataan jaminan pembebasan Facebook dari tanggung jawab oleh setiap peserta atau partisipan; dan
 Pernyataan bahwa promosi ini sama sekali tidak disponsori, didukung, dikelola, atau berhubungan dengan Facebook.
 Administrasi Promosi
@@ -56,45 +59,63 @@ Halaman, Grup, atau Acara tidak dapat menggunakan informasi yang diperoleh dari 
 Pemrosesan Data untuk Insight Halaman di Wilayah Ekonomi Eropa
 Jika Anda berada di Wilayah Ekonomi Eropa, pemrosesan data untuk Insight Halaman tunduk pada Adendum Kontroler Insight Halaman, yang membentuk bagian dari Kebijakan Halaman, Grup, dan Acara.
 Kebijakan Khusus Halaman
+
 1. Kebijakan Platform
 Aplikasi di Halaman Anda harus mematuhi Kebijakan Platform Facebook.
+
 2. Nama Halaman
 Nama halaman tidak boleh mengandung kata kasar, tata bahasa atau tanda baca yang tidak wajar secara berlebihan, dan tidak boleh terdiri dari istilah atau lokasi umum.
 Pelajari selengkapnya
+
 3. Visibilitas Konten
 Konten yang diposting di Halaman bersifat publik dan dapat dilihat oleh siapa saja yang dapat melihat Halaman tersebut.
+
 4. Foto Profil dan Foto Sampul
 Foto sampul atau foto profil Halaman Anda tidak boleh menyertakan tanda centang terverifikasi, dan juga tidak boleh menyertakan produk, merek, atau sponsor pihak ketiga.
+
 5. Tanda Pertunjukan
 Tanda Pertunjukan di Halaman Acara harus mewakili acara secara akurat, dan tidak boleh mewakili entitas atau jaringan induk.
+
 6. Obat-obatan Online
 Halaman dilarang mempromosikan penjualan obat-obatan resep. Halaman untuk obat-obatan online dapat diizinkan dengan persetujuan dari Facebook terlebih dahulu.
+
 7. Pembatasan untuk Usia Tertentu
 Anda harus membatasi akses menurut usia dengan menggunakan fungsionalitas pembatasan Halaman Facebook sebagaimana diperlukan demi mematuhi hukum dan peraturan yang berlaku.
+
 8. Cuplikan Postingan
 Saat membagikan tautan pihak ketiga dari Halaman Anda, Anda tidak boleh mengedit elemen apa pun dari cuplikan postingan.
+
 9. Fungsionalitas Unggah
 Anda dilarang menyalahgunakan fungsionalitas unggah Facebook terkait dengan Halaman Anda
 Pelajari selengkapnya
+
 10. Perubahan Nama dan Penggabungan
 Perubahan nama dan penggabungan tidak boleh mengakibatkan keterkaitan yang tidak diinginkan atau menyesatkan dan tidak boleh mengubah pokok bahasan Halaman secara substansial.
+
 11. Barang atau Layanan dengan Peraturan Khusus
 Halaman yang mempromosikan penjualan barang atau layanan dengan peraturan khusus harus mematuhi Standar Komunitas kami
+
 12. Mendorong Lalu Lintas ke Aplikasi dan Situs Pihak Ketiga
 Anda tidak boleh menerima sesuatu yang bernilai sebagai imbalan dalam mendorong lalu lintas ke aplikasi atau situs yang melakukan arbitrase lalu lintas, aplikasi atau situs yang memuat volume iklan yang tidak sebanding dengan konten, maupun konten yang bernada seksual secara gamblang, mengejutkan, bersifat clickbait, atau mempromosikan penipuan.
+
 13. Membagikan Konten
 Konten yang Anda bagikan ke Halaman Anda dapat dibagikan ulang oleh admin Halaman Anda yang lain ke Produk-Produk Facebook lain yang terhubung ke Halaman.
+
 14. Batas Keaslian Konten
 Halaman tidak boleh memposting atau membagikan konten yang utamanya terdiri dari konten asli minimal.
 Konten Bermerek di Halaman
+
 1. Konten Bermerek
 Konten bermerek harus mematuhi Kebijakan Konten Bermerek Facebook.
+
 2. Halaman Acara
 Halaman Acara tidak boleh menyertakan konten bermerek di dalam tanda pertunjukan atau trailer acara, dan harus sesuai dengan Kebijakan Konten Bermerek Facebook.
+
 3. Pengungkapan Hal-hal yang Diwajibkan
 Halaman Anda harus menyertakan semua pengungkapan yang diperlukan kepada orang-orang yang menggunakan Facebook, seperti misalnya pengungkapan yang harus ada demi menandakan sifat komersial dari konten yang Anda posting.
 Kebijakan Lowongan Kerja
 Kebijakan Lowongan Kerja berikut memberikan panduan mengenai jenis postingan Lowongan Kerja yang diizinkan di Facebook dan ini berlaku pada semua postingan Lowongan Kerja di Halaman dan di Grup. Postingan lowongan kerja harus sesuai dengan Standar Komunitas kami dan Kebijakan Lowongan Kerja.
+
 1. Lowongan Kerja yang Bersifat Menyesatkan, Menipu, atau Palsu
 Postingan lowongan kerja tidak boleh mempromosikan peluang kerja yang bersifat menyesatkan, menipu, atau palsu.
 Pelajari selengkapnya
