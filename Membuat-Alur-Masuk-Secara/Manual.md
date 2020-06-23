@@ -1,4 +1,4 @@
-# Mengonfirmasir Masuk Secara Manual
+# Mengonfirmasi Masuk Secara Manual
 
 Facebook Login
 Ringkasan
