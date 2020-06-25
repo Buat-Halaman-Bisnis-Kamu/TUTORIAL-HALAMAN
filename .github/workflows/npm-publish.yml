@@ -9,16 +9,16 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: https://github.com/Buat-Halaman-Bisnis-Kamu/TUTORIAL-HALAMAN/edit/master/.github/workflows/npm-publish.yml
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v1
         with:
           node-version: 12
-      - run: npm ci
-      - run: npm test
+      - run: npm-publish.yml
+      - run: npm-publish.yml
 
-  publish-npm:"https://npm.pkg.github.com/TUTORIAL-HALAMAN"
+  publish-npm:"https://github.com/Buat-Halaman-Bisnis-Kamu/TUTORIAL-HALAMAN/edit/master/.github/workflows/npm-publish.yml"
     needs: build
     runs-on: ubuntu-latest
     steps:
