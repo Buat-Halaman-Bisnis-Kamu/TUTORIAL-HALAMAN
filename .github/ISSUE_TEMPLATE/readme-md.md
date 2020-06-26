@@ -7,19 +7,19 @@ assignees: Sub-Olahoop
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**PRIVASI**
+Work menyedikanan Layanan yang bisa membantu .
 
-**To Reproduce**
+**Bantuan**
 Steps to reproduce the behavior:
-1. Go to 'http://github.com - automatic!
+1. Go to 'https://subagen069.m.workplace.com/help/work - automatic!
 [GitHub](https://facebook.com/Pemasaran7)'
-2. Click on '[Halaman](https://facebook.com/pemasaran7)'
+2. Click on '[Bantuan](https://subagen069.m.workplace.com/help/work)'
 3. Scroll down to '....'
 4. See error
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Bergabung Bersama Kami**
+Bangun Bisnis Bersama kami.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
