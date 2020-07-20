@@ -46,6 +46,10 @@
 [*Ringkasan Tentang Standar Kebijakan Halaman*](https://github.com/Buat-Halaman-Bisnis-Kamu/TUTORIAL-HALAMAN/blob/master/Ketentuan/Halaman/.md)
 
 ----
+# Lihat Video Kami
+[Lihat](https://github.com/Buat-Halaman-Bisnis-Kamu/TUTORIAL-HALAMAN/blob/master/115872752_672999773609129_2935498335724322835_n.mp4)
+
+----
 
 # Payment
 
