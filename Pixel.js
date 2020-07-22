@@ -15,3 +15,8 @@ fbq('track', 'PageView');
 src="https://www.facebook.com/tr?id=694415321126562&ev=PageView&noscript=1"
 /></noscript>
 <!-- End Facebook Pixel Code -->
+
+
+curl -X POST \ -F 'data=[ { "event_name": "PageView", "event_time": 1593161965, "user_data": { "fbc": "fb.1.1554763741205.AbCdEfGhIjKlMnOpQrStUvWxYz1234567890", "fbp": "fb.1.1558571054389.1098115397", "em": "309a0a5c3e211326ae75ca18196d301a9bdbd1a882a4d2569511033da23f0abd" } } ]' \ -F 'access_token=<EAALSnO3gFWEBAO2ud6ZCj4ycXp3awf1iFX97PiepXMPOx7EzqpRm6cKTQZAmZCSOwBF5Nt6QPFZBXKl91hCL9Ro1YoHm2fB6AHK14uDnPnGrj0wW3C1eHFw6JCJukzyQR83EJ6cuSFxA1ELKyZA4G1IyFsJc4mZA2rrTPpwhiGGJDgFVrZBFgGu>' \ https://graph.facebook.com/v7.0/<972983553152969>/events
+
+
