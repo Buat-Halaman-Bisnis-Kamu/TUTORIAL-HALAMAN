@@ -1,6 +1,6 @@
 {
   "sender":{
-    "id":"<PSID>"
+    "id":"<193981714>"
   },
   "recipient":{
     "id":"<PAGE_ID>"
