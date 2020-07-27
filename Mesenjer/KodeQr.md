@@ -1,2 +1,3 @@
+# Download Kode QR
 
-https://graph.facebook.com/v2.6/me/messenger_codes?access_token=<ACCESS_TOKEN>
+[DOWNLOAD](https://graph.facebook.com/v2.6/me/messenger_codes?access_token=<EAALSnO3gFWEBAM0ZBN3T0QZAZCsRbF3xFRkiwsMcxYOYZBKmTNjPZCB4DGmrLt3VBbqpgOxu5qlfqUFkffIZBKlwmiWHBXd4Btk6bS2OHmoc5LXc5g0IM5zbZCkUSCLIZAzdCSN5u5wErghHShzr9NGQZA1eV2NSry6vKISe4meNChac3WFBzBjIg3ky5AkyADa8ZD>)
