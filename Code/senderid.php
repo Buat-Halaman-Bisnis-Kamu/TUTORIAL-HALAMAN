@@ -11,7 +11,7 @@
     "payload":"<USER_DEFINED_PAYLOAD>",
     "referral": {
       "ref": "ref_data_in_m_dot_me_param",
-      "source": "SHORTLINK",
+      "source": "http://m.me/<@klikshop01>",
       "type": "OPEN_THREAD",
     }
   }
