@@ -4,9 +4,9 @@
     "id":"<PSID>"
   },
   "recipient":{
-    "id":"<PAGE_ID>"
+    "id":"<113984427014056>"
   },
-  "timestamp":1458692752478,
+  "timestamp":113984427014056,
   "postback":{
     "payload":"<USER_DEFINED_PAYLOAD>",
     "referral": {
