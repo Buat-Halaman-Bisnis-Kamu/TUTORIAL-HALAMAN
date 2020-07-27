@@ -1,7 +1,7 @@
 
 {
   "sender":{
-    "id":"<PSID>"
+    "id":"<@klikshop01>"
   },
   "recipient":{
     "id":"<113984427014056>"
