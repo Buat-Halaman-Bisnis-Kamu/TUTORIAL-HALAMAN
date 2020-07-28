@@ -53,7 +53,9 @@
 ----
 
 # Ganti Bahasa
-[Bahasa indonesia](src="https://connect.facebook.net/fr_FR/sdk.js#xfbml=1")
+
+![Bahasa indonesia](src="https://connect.facebook.net/fr_FR/sdk.js#xfbml=1")
+
 # Payment
 
 <br/><i> Binggung Dengan Pembayaran💳 Bayar Di 👇 aja<i/>
