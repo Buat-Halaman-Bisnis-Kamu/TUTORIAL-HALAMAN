@@ -49,6 +49,7 @@
 # Lihat Video Kami
 [Lihat](https://github.com/Buat-Halaman-Bisnis-Kamu/TUTORIAL-HALAMAN/blob/master/115872752_672999773609129_2935498335724322835_n.mp4)
 
+<div class="fb-share-button" data-href="https://facebook.com/docs/plugins/pemasaran7" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ffacebook.com%2Fdocs%2Fplugins%2Fpemasaran7&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Bagikan</a></div>
 ----
 
 # Payment
