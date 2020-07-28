@@ -20,7 +20,7 @@
 - [**Komunitas**](https://m.facebook.com/Pemasaran7/?ref=bookmarks#)
 - [**Foto**](https://m.facebook.com/Pemasaran7/?ref=bookmarks#)
 - [**Toko**](https://m.facebook.com/Pemasaran7/?ref=bookmarks#)
-
+- [Group](https://m.facebook.com/groups/828150041001725)
 # Kebijakan Halaman, Grup, dan Acara
 
 **DAFTAR ISI**
