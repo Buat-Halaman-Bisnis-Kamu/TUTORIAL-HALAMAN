@@ -26,6 +26,7 @@
     </div>
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/id_ID/sdk.js#xfbml=1&version=v7.0&appId=701909577290417&autoLogAppEvents=1" nonce="vrWkvYXm"></script>
+<div class="fb-group" data-href="https://www.facebook.com/groups/Agen_marketing//" data-width="280" data-show-social-context="false" data-show-metadata="true"></div>
 </body>
 
 </html>
