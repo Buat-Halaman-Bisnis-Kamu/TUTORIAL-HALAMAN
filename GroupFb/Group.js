@@ -19,7 +19,7 @@
 
     <!--Your Group Plugin for the Web code-->
     <div class="fb-group" 
-         data-href="<group_URL>" 
+         data-href="<https://m.facebook.com/groups/828150041001725>" 
          data-width="280" 
          data-show-social-context="true" 
          data-show-metadata="false">
