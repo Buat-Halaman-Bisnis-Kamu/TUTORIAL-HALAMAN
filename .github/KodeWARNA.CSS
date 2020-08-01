@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p1 {
+ text-align: left;
+ color: red;
+}
+p2 {
+ text-align: left;
+ color: blue;
+} 
+p3 {
+ text-align: left;
+ color: green;
+}
+</style>
+</head>
+<body>
+<p>Setiap paragraf akan dipengaruhi oleh style!</p>
+ <p1>1. Ini adalah contoh HTML tanpa CSS </font></p>
+ <p2>2. Untuk artikel pengertian PHP dan fungsinya</font></p>
+ <p3>3. Anda dapat memasukkan beberapa teks di sini</font></p>
+</body>
+</html>
