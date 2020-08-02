@@ -50,7 +50,18 @@
 [Lihat](https://www.facebook.com/FacebookDevelopers/videos/10152454700553553)
 
 <div class="fb-share-button" data-href="https://facebook.com/docs/plugins/pemasaran7" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ffacebook.com%2Fdocs%2Fplugins%2Fpemasaran7&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Bagikan</a></div>
+
 ----
+
+<html>
+<div class="fb-send-to-messenger" 
+  messenger_app_id="<APP_ID>" 
+  page_id="PAGE_ID" 
+  data-ref="<PASS_THROUGH_PARAM>" 
+  color="<blue | white>" 
+  size="<standard | large | xlarge>">
+</div>
+</html>
 
 # Ganti Bahasa
 
