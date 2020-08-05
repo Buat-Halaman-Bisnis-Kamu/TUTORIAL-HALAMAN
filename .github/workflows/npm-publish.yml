@@ -3,7 +3,7 @@
 
 name: TUTORIAL-HALAMAN.json
 
-on:
+on: gh pr checkout 1
   release:
     types: [created]
 
